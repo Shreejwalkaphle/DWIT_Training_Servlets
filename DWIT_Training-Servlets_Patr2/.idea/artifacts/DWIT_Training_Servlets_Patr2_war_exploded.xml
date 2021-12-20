@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DWIT_Training-Servlets_Patr2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DWIT_Training_Servlets_Patr2_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DWIT_Training-Servlets_Patr2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DWIT_Training-Servlets_Patr2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
